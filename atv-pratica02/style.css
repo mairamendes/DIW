@@ -1,0 +1,41 @@
+body{
+    font-size: 16px;
+    background-color: #335384;
+
+}
+aside img{
+    max-width: 250px;
+    border-radius: 100%;
+    margin-left: 40px;
+}
+
+aside{  
+    font-family: 'Poppins';
+    float: left;
+    color: aliceblue;
+    width: 20%;
+    height: 100%;
+    padding: 30px;
+}
+
+main{
+    text-align: justify;
+    font-family: 'Poppins';
+    margin-left: 400px;
+    background-color: white;
+    padding: 50px;
+    height: 800px;
+    font-size: 20px;
+}
+
+main h3{
+    color: #2a4876;
+}
+
+span{
+    font-weight: bold;
+}
+
+i{
+    color: #2a4876;
+}
